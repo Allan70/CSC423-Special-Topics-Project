@@ -1,5 +1,5 @@
 # CSC423-Special-Topics-Project
-This is a hand writting recognizer to meet the requirements for the CSC 423: Special Topics
+This is a hand-writing recognizer to meet the requirements for the CSC 423: Special Topics Project submission.
 
 
 # Milestone 1
