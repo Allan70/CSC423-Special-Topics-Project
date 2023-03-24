@@ -4,7 +4,7 @@ This is a hand writting recognizer to meet the requirements for the CSC 423: Spe
 
 # Milestone 1
 
-The data brought in  from Kaggle. It contains 1GB of data consists of more than four hundred thousand (400, 000) handwritten names collected through charity projects.in the link below.
+The data brought in  from Kaggle. It contains 1GB of data consists of more than four hundred thousand (400, 000) handwritten names collected through charity projects in the link below.
 
 [ Hand-written Data Source ](https://www.kaggle.com/datasets/landlord/handwriting-recognition?resource=download)
 
