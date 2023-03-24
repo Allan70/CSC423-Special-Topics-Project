@@ -8,7 +8,7 @@ The data brought in  from Kaggle. It contains 1GB of data consists of more than 
 
 [ Hand-writen Data Source ](https://www.kaggle.com/datasets/landlord/handwriting-recognition?resource=download)
 
-The data has the following features
+The data has the following features:
 
 | Feature | Number |
 | ---------| --------|
