@@ -10,9 +10,6 @@ The data brought in  from Kaggle. It contains 1GB of data consists of more than 
 
 The data has the following features
 
-There are 206,799 first names and 207,024 surnames in total. The data was divided into a training set (331,059), testing set (41,382), and validation set (41,382) respectively.
-
-
 | Feature | Number |
 | ---------| --------|
 | First Names | 206,799 |
